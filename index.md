@@ -1,9 +1,20 @@
 ---
-title: /
+title: ＨＣＨＹ
 layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# ＨＣＨＹ
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+HCHY was founded by Heng Yu and Hsiu-Ju Chang in 2019. Based in Taichung, Taiwan, HCHY’s design works have span across Taiwan and the Netherlands. HCHY explores the infinite possibilities within the contemporary spatial morphology, expounding how visual medium and digital tool affect the production of spaces.
+
+The main services span various scales of imagery production, including:
+
+- Competition 3D animations
+- Still image renderings
+- Spatial analysis and animated diagrams
+- Image post-production
+
+# Watch HCHY at [YouTube](https://www.youtube.com/@hchytw).
+
+contact us at [info@hchy.tw](mailto:info@hchy.tw)

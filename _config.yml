@@ -13,3 +13,9 @@
 
 plugins:
   - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - tw.md
+
+footer: 'contact us at <a href="mailto:info@hchy.tw">info@hchy.tw</a>'
