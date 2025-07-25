@@ -6,7 +6,7 @@ permalink: /
 
 # ＨＣＨＹ
 
-HCHY was founded by Heng Yu and Hsiu-Ju Chang in 2019. Based in Taichung, Taiwan, HCHY’s design works have span across Taiwan and the Netherlands. HCHY explores the infinite possibilities within the contemporary spatial morphology, expounding how visual medium and digital tool affect the production of spaces.
+HCHY was founded by Heng Yu and Jess Hsiu-Ju Chang in 2019. Based in Taichung, Taiwan, HCHY’s design works have span across Taiwan and the Netherlands. HCHY explores the infinite possibilities within the contemporary spatial morphology, expounding how visual medium and digital tool affect the production of spaces.
 
 The main services span various scales of imagery production, including:
 
@@ -16,5 +16,3 @@ The main services span various scales of imagery production, including:
 - Image post-production
 
 # Watch HCHY at [YouTube](https://www.youtube.com/@hchytw).
-
-contact us at [info@hchy.tw](mailto:info@hchy.tw)
