@@ -29,7 +29,7 @@ function draw() {
   strokeWeight(0.5);
   stroke(50);
   detailLevel = floor(dS);
-  texture(https://github.com/office-hchy/office2earth);
+  texture(earth);
   sphere(200, resolutionX * detailLevel, resolutionY * detailLevel);
   //background(30, 0.2);
 
