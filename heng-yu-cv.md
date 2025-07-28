@@ -7,10 +7,10 @@ permalink: /hengyu
 # Heng Yu
 
 [LinkedIn](linkedin.com/in/hngy/)
-[Email](h.yu@hchy.tw)
+[Email](mailto:h.yu@hchy.tw)
 
 --
-Heng Yu is an architect, designer, and filmmaker enthusiastic about exploring various physical and digital tools that facilitate architecture as a medium to exchange and communicate design thinking. He first participated in mid to large-scale building projects in Taiwan, where he worked with external/internal groups of professionals from various disciplines and became proficient in collaborating and coordinating. During his time in the Berlage, he took the leading role in the collective video production. In 2022, he subsequently worked on the exhibition filmography for IABR: Future Generation and assisted in coordinating an urban design competition for KCAP. In 2023, he co-started the design office HCHY, whose works span across Taiwan and the Netherlands. His diverse experiences offer a blend of aesthetics and interdisciplinary insight.
+Heng Yu is an architect, designer, and filmmaker enthusiastic about exploring various physical and digital tools that facilitate architecture as a medium to exchange and communicate design thinking. He first participated in mid to large-scale building projects in Taiwan, where he worked with external/internal groups of professionals from various disciplines and became proficient in collaborating and coordinating. During his time in the Berlage, he took the leading role in the collective video production. In 2022, he subsequently worked on the exhibition filmography for IABR: Future Generation and assisted in coordinating an urban design competition for KCAP. In 2023, he started a position in the design office HCHY, whose works span across Taiwan and the Netherlands. His diverse experiences offer a blend of aesthetics and interdisciplinary insight.
 
 --
 
