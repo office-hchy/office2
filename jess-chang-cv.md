@@ -34,12 +34,14 @@ _Rotterdam, the Netherlands_
 2022
 **TU Delft Dept. Arch | Research Assistant**
 _Delft, the Netherlands_
-» contributing ethnographic studies and research illustration in the project/ publication "[Cooperative Conditions](https://verlag.gta.arch.ethz.ch/de/gta:book_51aa8ea3-e063-464d-afa6-079f20061123)" (published 2024) and, » assisting graduation studio "Advanced Housing Design" (2021-2022).
+» contributing ethnographic studies and research illustration in the project/ publication "[Cooperative Conditions](https://verlag.gta.arch.ethz.ch/de/gta:book_51aa8ea3-e063-464d-afa6-079f20061123)" (published 2024) and,
+» assisting graduation studio "Advanced Housing Design" (2021-2022).
 
 2022
 **FABRICations | Trainee**
 _Amsterdam, the Netherlands_
-» engaging in competition project and » research-oriented urban design project.
+» engaging in competition project and
+» research-oriented urban design project.
 
 2019-2020
 **Taipei International Group | Project Architect**
