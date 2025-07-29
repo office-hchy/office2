@@ -24,7 +24,7 @@ Ministry of the Interior, Taiwan
 
 2023-present
 **TU Delft Dept. Arch | PhD Candidate**
-_Delft, The Netherlands_
+_Delft, the Netherlands_
 
 2019-present
 **HCHY | Architect**
@@ -38,7 +38,7 @@ _Delft, the Netherlands_
 » assisting graduation studio "Advanced Housing Design" (2021-2022).
 
 2022
-**FABRICations | Trainee**
+**FABRICations | Assistant Designer**
 _Amsterdam, the Netherlands_
 » engaging in competition project and
 » research-oriented urban design project.

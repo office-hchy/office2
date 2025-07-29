@@ -6,8 +6,7 @@ permalink: /hengyu-cht
 
 # 虞恆
 
-[LinkedIn](linkedin.com/in/hngy/)
-[Email](mailto:h.yu@hchy.tw)
+[LinkedIn](linkedin.com/in/hngy/) [Email](mailto:h.yu@hchy.tw)
 
 --
 
