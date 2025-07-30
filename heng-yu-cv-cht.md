@@ -43,7 +43,7 @@ _台灣，台南_
 
 --
 
-# EDUCATION
+# 學歷
 
 2020-2022
 **荷蘭台夫特理工大學 （Technische Universiteit Delft）**
