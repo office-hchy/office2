@@ -31,7 +31,9 @@ _有物混成，先天地生。_
 /
 /
 /
-**混成社目前主要成員是[虞恆](/hengyu-cht)與[張琇茹](/hjchang-cht)。**
+**主要成員**
+[虞恆](/hengyu-cht)，主持人，視覺化設計與影片製作
+[張琇茹](/hjchang-cht)，主持人，建築師與空間研究
 
 # 影片作品集可在 [YouTube](https://www.youtube.com/@hchytw) 觀看。
 

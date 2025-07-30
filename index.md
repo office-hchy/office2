@@ -29,7 +29,9 @@ MAYU Architects [TW], MD2 [NL], SDI-X [TW], KCAP [NL], Studio TAO [NL], IABR [NL
 /
 /
 /
-**HCHY currently is [Heng Yu](/hengyu) and [Jess Hsiu-Ju Chang](hjchang).**
+**People**
+[Heng Yu](/hengyu), founder. 3D visualiser and filmmaker
+[Jess Chang](hjchang), founder. Architect and researcher
 
 # Watch HCHY at [YouTube](https://www.youtube.com/@hchytw).
 
