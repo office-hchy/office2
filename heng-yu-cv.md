@@ -9,7 +9,7 @@ permalink: /hengyu
 [LinkedIn](linkedin.com/in/hngy/) [Email](mailto:h.yu@hchy.tw)
 
 --
-Heng Yu is an architect, designer, and filmmaker enthusiastic about exploring various physical and digital tools that facilitate architecture as a medium to exchange and communicate design thinking. He first participated in mid to large-scale building projects in Taiwan, where he worked with external/internal groups of professionals from various disciplines and became proficient in collaborating and coordinating. During his time in the Berlage, he took the leading role in the collective video production. In 2022, he subsequently worked on the exhibition filmography for IABR: Future Generation and assisted in coordinating an urban design competition for KCAP. In 2023, he started a position in the design office HCHY, whose works span across Taiwan and the Netherlands. His diverse experiences offer a blend of aesthetics and interdisciplinary insight.
+Heng Yu is an architect, designer, and 3D visualiser. Trained as an architect in Taiwan, he first participated in the large-scale public building project, Guangci Boai Park (廣慈博愛園區), at L. R. Hsiao Architect & Associates. He was involved from the competition through to the detailed design stage of an office complex and a social welfare centre, working with internal and external teams of professionals from various disciplines and becoming proficient at collaborating and coordinating. He obtained his post-master's degree in architecture from the Berlage Center, TU Delft, where he expanded his skill set in filmmaking and visualisation. While there, he took the lead at every stage of the collective videomaking. Yu subsequently broadened his experience in the Netherlands by working at the architectural firm KCAP in 2022, where he coordinated an international team and visualised concepts and strategies for the Feilong Lake Region urban design competition in China. In addition to this, he worked on the exhibition filmography for IABR: Future Generation with Juan Benavides. Since 2023, he has returned to practice in Taiwan, working as an independent 3D visualiser for various architectural firms. He has produced 3D animation videos for MAYU architects in several public project competitions, in which the firm won first prize. Yu has also collaborated with artists, architects, and developers to put 3D animation in various applications. His diverse experiences offer strong interdisciplinary insight into all stages of the design process.
 
 --
 
@@ -18,8 +18,9 @@ Heng Yu is an architect, designer, and filmmaker enthusiastic about exploring va
 2023-present
 **HCHY | 3D Visualiser**
 _Taichung, Taiwan / Rotterdam, the Netherlands_
-» Produce short films for competition entries in Taiwan, and
-» create renderings for interior design project in Taichung, Rotterdam and Brussels.
+» Produced award-winning 3D animation videos for architects, contributing to multiple first-prize competition wins,
+» created photorealistic promotional videos for real estate developers, elevating project marketing and client presentations, and
+» collaborated widely with artists and firms, applying 3D animation across diverse artistic and commercial projects.
 
 2022
 **KCAP | Urban Designer**
